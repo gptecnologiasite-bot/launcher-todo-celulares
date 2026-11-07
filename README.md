@@ -2,6 +2,8 @@
 
 Launcher web moderno (PWA) para celular e TV, com fundo de vídeo, ícones oficiais, categorias, favoritos e relógio.
 
+![Preview](https://raw.githubusercontent.com/gptecnologiasite-bot/launcher-todo-celulares/master/public/fundo.jpg)
+
 ## ✨ Funcionalidades
 
 - 🎬 **Fundo de vídeo** (planeta.mp4 em loop, 2x velocidade)
