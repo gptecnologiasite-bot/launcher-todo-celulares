@@ -1,4 +1,4 @@
-# Launcher PWA — Todo Celulares
+# Launcher de teste — PWA (Todo Celulares)
 
 Launcher web moderno (PWA) para celular e TV, com fundo de vídeo, ícones oficiais, categorias, favoritos e relógio.
 
