@@ -1,0 +1,5 @@
+{
+  "appId": "com.example.launcher",
+  "appName": "Launcher Web",
+  "webDir": "dist"
+}
